@@ -40,7 +40,7 @@ For this project,I am a person who likes to cook and eat, I prepared food page o
 <img src = 'img/team.png'>
 * Slide 
 
-<img src = 'img/parallax.png'>
+<img src = 'img/slide.png'>
 * Contact 
 
 <img src = 'img/contact.png'>
